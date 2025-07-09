@@ -1,1 +1,1 @@
-# forit-todo-app
+# Challenge ForIt: todo app
