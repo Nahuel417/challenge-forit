@@ -8,6 +8,13 @@ export const allTask = (req: Request, res: Response) => {
     res.status(200).json(tasks);
 };
 
+export const taskById = (req: Request, res: Response) => {
+    const taskId = req.params.id;
+    const task = tasks.find((task) => task.id === taskId);
+
+    res.status(200).json(task);
+};
+
 //POST
 export const createTask = (req: Request, res: Response) => {
     const { title } = req.body;
