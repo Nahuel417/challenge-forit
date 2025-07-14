@@ -53,7 +53,7 @@ export const updateTask = (req: Request, res: Response) => {
 
     updatedTask.title = title.trim();
     updatedTask.description = description.trim() || '';
-    updatedTask.completed = completed ? completed : updatedTask.completed;
+    updatedTask.completed = typeof completed === 'boolean' ? completed : updatedTask.completed;
 
     res.status(200).send(`Tarea actualizada`);
 };
