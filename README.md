@@ -49,6 +49,12 @@ npm run dev
 - Interfaz adaptada a dispositivos móviles (responsive)
 ````
 
+## 🖼️ Imágenes
+
+![Descripción de la imagen 1](![alt text](image.png))
+
+![Descripción de la imagen 2](ruta-o-url-de-la-imagen2)
+
 **Nahuel Banco**  
 Desarrollador Web Fullstack  
 📍 Argentina 🇦🇷
