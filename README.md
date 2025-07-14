@@ -51,9 +51,17 @@ npm run dev
 
 ## 🖼️ Imágenes
 
-![Descripción de la imagen 1](![alt text](image.png))
+![Inicio](<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/5246b0e6-ad4c-4275-845a-0deb6dd758e9" />
+)
 
-![Descripción de la imagen 2](ruta-o-url-de-la-imagen2)
+![TaskList](<img width="1916" height="946" alt="image" src="https://github.com/user-attachments/assets/434083a7-f60e-4e6d-b352-10aa17ce6488" />
+)
+
+![TaskForm](<img width="1914" height="946" alt="image" src="https://github.com/user-attachments/assets/7ed47f75-9354-493d-a3e2-9179d0bb5abd" />
+)
+
+![TaskEdit](<img width="1916" height="947" alt="image" src="https://github.com/user-attachments/assets/f108ef5f-0728-41bc-acf9-d8016eb249d3" />
+)
 
 **Nahuel Banco**  
 Desarrollador Web Fullstack  
